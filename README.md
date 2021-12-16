@@ -12,5 +12,5 @@ This repository describes hardware and software required to support a RS-232 con
 
 ## Run
 ```shell
->$ go run go-ut60g.go -port /dev/ttyUSB0  -rx
+>$ go run go-ut60g.go
 ```

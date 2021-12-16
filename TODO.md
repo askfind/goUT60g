@@ -53,5 +53,5 @@ TODO
 
 # Командная строка:
 ```
->$ go run go-ut60g.go -port /dev/ttyUSB0  -rx
+>$ go run go-ut60g.go
 ```
